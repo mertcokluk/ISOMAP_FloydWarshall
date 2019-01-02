@@ -7,6 +7,7 @@ ISOMAP Manifold Learning approach making use of Floyd-Warshall algorithm for sho
 
 
 For exemplification code takes Swiss roll dataset:
+
 ![Alt text](swissroll.png?raw=true "Swiss roll dataset") 
 
 
